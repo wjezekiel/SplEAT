@@ -1,0 +1,12 @@
+
+---BILL SUMMARY---
+
+Total cost of TEST is: $100.00
+Number of people: 2
+
+ALV owes JY: $21.45
+
+JY paid the most in this event: $70.0
+
+Most expensive dish: CHICKEN $100.0
+------------------
